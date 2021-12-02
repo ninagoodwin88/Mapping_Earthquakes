@@ -1,5 +1,6 @@
 // Add console.log to check to see if our code is working.
 console.log("working");
+console.log("Coding Can be Difficult");
 
 // Create the map object with a center and zoom level.
 // Create the map object with a center and zoom level.
